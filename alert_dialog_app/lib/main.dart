@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demoajiwdrwqjidqodjqwiodheqwuifdhuqiwhiu',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -18,6 +18,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
 
 class MyHomePage extends StatelessWidget {
   const MyHomePage({Key? key}) : super(key: key);
